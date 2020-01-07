@@ -1,0 +1,14 @@
+<template>
+    <template if:true={leads}>
+        <lightning-map
+                zoom-level="11"
+                map-markers={markers}
+                markers-title="Leads">
+        </lightning-map>
+    </template>
+    <template if:true={error}>
+            <c-error-panel errors={error}></c-error-panel>
+    </template>
+
+    
+</template>

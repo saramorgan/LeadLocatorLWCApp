@@ -1,0 +1,37 @@
+<template>
+    <div class="c-container">
+            <lightning-layout multiple-rows="true">
+                
+                <lightning-layout-item padding="around-small" size="12">
+                    <lightning-layout>
+                        <lightning-layout-item padding="around-small" size="6">
+                            <div class="slds-box slds-theme_default">
+                                <c-lead-list onnewsearch={handleNewSearch}
+                                onsearchcomplete={handleSearchComplete}></c-lead-list>
+                               
+                            </div>
+                        </lightning-layout-item>
+                        <lightning-layout-item padding="around-small" size="6">
+                            
+                            <div class="slds-box slds-theme_default">
+                                    <lightning-card title="Lead Map" icon-name="action:map" class="slds--around_medium">
+                                        <template if:true={searchComplete}>
+                                            <c-lead-map search-input={searchInput}></c-lead-map>
+                                        </template> 
+                                        <template if:false={searchComplete}>
+                                            <div class="slds-notify slds-notify_alert slds-theme_alert-texture slds-theme_info" role="alert">
+                                                <span class="slds-assistive-text">info</span>
+                                                <h2>You will need to enter a search term before a map is displayed.</h2>
+                                            </div>
+                                        </template> 
+                                    </lightning-card>  
+                                </div>
+
+                        </lightning-layout-item>
+                       
+                    </lightning-layout>
+                </lightning-layout-item>
+                
+            </lightning-layout>
+        </div>
+</template>

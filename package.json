@@ -1,0 +1,17 @@
+{
+  "name": "myfirstlwcproject",
+  "version": "1.0.0",
+  "description": "This guide helps Salesforce developers who are new to Visual Studio Code go from zero to a deployed app using Salesforce Extensions for VS Code and Salesforce CLI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:unit": "sfdx-lwc-jest --coverage",
+    "test:unit:watch": "sfdx-lwc-jest --watch",
+    "test:unit:debug": "sfdx-lwc-jest --debug"  
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@salesforce/sfdx-lwc-jest": "^0.6.2"
+  }
+}
