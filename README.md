@@ -8,11 +8,11 @@ Because they may not be experienced with Salesforce development, the course will
 
 ## Reference Material Instead of the Course
 
-Anyone that is interested in finding out more about this code, should visit my blog at <a href="https://saramorgan.net"  target="blank">saramorgan.net</a>. There you will find a series of posts that briefly cover what is included in each module of the course. The only way to see all the tips and tricks I provide are to view the actual course on Pluralsight. But below is a link to each post and a brief summary of what it covers.
+Anyone that is interested in finding out more about this code, should visit my blog at <a href="https://saramorgan.net"  target="_blank">saramorgan.net</a>. There you will find a series of posts that briefly cover what is included in each module of the course. The only way to see all the tips and tricks I provide are to view the actual course on Pluralsight. But below is a link to each post and a brief summary of what it covers.
 
 ### Introducing Lightning Web Components
 
-Refer to the following [blog post #1] (https://saramorgan.net/2019/09/15/post-1-building-your-first-lightning-web-component-for-salesforce-series/). 
+Refer to the following <a href="https://saramorgan.net/2019/09/15/post-1-building-your-first-lightning-web-component-for-salesforce-series/" target="_blank">blog post #1</a>. 
 In this post/Pluralsight module), you will learn:
 You will learn:
 1. About LWC benefits
@@ -22,7 +22,7 @@ You will learn:
 
 ### Setting Up Your Development Enviorment (in 5 somewhat easy steps)
 
-Refer to the following [blog post #2] (https://saramorgan.net/2019/09/23/post-2-building-your-first-lightning-web-component-for-salesforce-series/).
+Refer to the following <a href="https://saramorgan.net/2019/09/23/post-2-building-your-first-lightning-web-component-for-salesforce-series/" target="_blank">blog post #2</a>.
 In this post/Pluralsight module), you will learn:
 1. How to get setup with Salesforce and an IDE
 2. What is Salesforce DX and how to get setup with it
@@ -30,7 +30,7 @@ In this post/Pluralsight module), you will learn:
 
 ### Understanding Composition and Intercompoment Communication
 
-Refer to the following [blog post #3] (https://saramorgan.net/2019/11/24/post-3-building-your-first-lightning-web-component-for-salesforce-series/). 
+Refer to the following <a href="https://saramorgan.net/2019/11/24/post-3-building-your-first-lightning-web-component-for-salesforce-series/" target="_blank">blog post #3</a>. 
 In this post/Pluralsight module), you will learn:
 1. What nested LWC apps are
 2. How to create Lightning Page App declaratively to host a nested LWC
@@ -39,7 +39,7 @@ In this post/Pluralsight module), you will learn:
 
 ### Working with Salesforce Data and Debugging
 
-Refer to the following [blog post #4] (https://saramorgan.net/2019/12/02/post-4-building-your-first-lightning-web-component-for-salesforce-series/). 
+Refer to the following <a href="https://saramorgan.net/2019/12/02/post-4-building-your-first-lightning-web-component-for-salesforce-series/" target="_blank">blog post #4</a>. 
 In this post/Pluralsight module), you will learn:
 1. About the Lightning Data Service Wire Adapter and caching
 2. Using the Command Line Interface (CLI) to load data
@@ -48,7 +48,7 @@ In this post/Pluralsight module), you will learn:
 
 ### Converting Aura Components
 
-Refer to the following [blog post #5] (https://saramorgan.net/2019/12/16/post-5-building-your-first-lightning-web-component-for-salesforce-series/). 
+Refer to the following <a href="https://saramorgan.net/2019/12/16/post-5-building-your-first-lightning-web-component-for-salesforce-series/" target="_blank">blog post #5</a>. 
 In this post/Pluralsight module), you will learn:
 1. How to convert Aura components to LWC's using Migration Strategies
 2. All about my past mistakes when trying to convert an Aura component
@@ -56,7 +56,7 @@ In this post/Pluralsight module), you will learn:
 
 ### Testing LWC's and Wrapping Up
 
-Refer to the following [blog post #6] (https://saramorgan.net/2020/01/02/post-6-building-your-first-lightning-web-component-for-salesforce-series/) 
+Refer to the following <a href="https://saramorgan.net/2020/01/02/post-6-building-your-first-lightning-web-component-for-salesforce-series/" target="_blank">blog post #6</a> 
 In this post/Pluralsight module), you will learn:
 1. All about what Jest tests are and why you should create them
 2. How to install Jest on your computer using a special SFDX library
