@@ -8,7 +8,7 @@ Because they may not be experienced with Salesforce development, the course will
 
 ## Reference Material Instead of the Course
 
-Anyone that is interested in finding out more about this code, should visit my blog at [saramorgan.net] (https://saramorgan.net/). There you will find a series of posts that briefly cover what is included in each module of the course. The only way to see all the tips and tricks I provide are to view the actual course on Pluralsight. But below is a link to each post and a brief summary of what it covers.
+Anyone that is interested in finding out more about this code, should visit my blog at <a href="https://saramorgan.net"  target="blank">saramorgan.net</a>. There you will find a series of posts that briefly cover what is included in each module of the course. The only way to see all the tips and tricks I provide are to view the actual course on Pluralsight. But below is a link to each post and a brief summary of what it covers.
 
 ### Introducing Lightning Web Components
 
